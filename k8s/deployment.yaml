@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: mansisardana/myapp:latest
+        image: mansisardana/myapp:2e8f0e3b2d8cd3338aad15b7474926c13d64b93e
         ports:
         - containerPort: 3000
